@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Brasil
 Mexico
+=======
+Belice
+Costa Rica
+>>>>>>> a145ec288dcb965e4688304f8a33698647c6c9cd
