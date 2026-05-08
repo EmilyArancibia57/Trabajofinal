@@ -29,5 +29,4 @@ Github
 ## Integrantes
 - Emily Arancibia Cueto
 - Alan Ovidio Guzman Vaca
-- Tiago Aguilera Fuentes
 - Luis Fabian Huaylla Maita
